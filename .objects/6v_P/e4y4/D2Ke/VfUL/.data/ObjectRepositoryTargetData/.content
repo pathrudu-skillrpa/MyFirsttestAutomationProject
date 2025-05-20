@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S0JdDlHw506J5glfyRPuWQ" Reference="EejfLHSTFUiBt8XmLycNKw/VfULKtn_NkW9YE0TKZBQGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="staging.uipath.com/skillrpa/DefaultTenant/dataservice_/entities/0a900a03-3e10-f011-aaa7-000d3abf6e1a" DesignTimeRectangle="209, 251, 33, 14" ElementType="Text" FullSelectorArgument="&lt;webctrl class='mdc-tab__text-label' parentid='mat-tab-label-0-1' tag='SPAN' /&gt;" Guid="37ca20a2-6efb-4d08-a50b-1f5172ff8d76" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank Loan Application Test Data - UiPath Data Fabric' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e8c172e03b5e005916b7077f0f332b6.png" xmlns="">0xOH9k321nEez32y4075bZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

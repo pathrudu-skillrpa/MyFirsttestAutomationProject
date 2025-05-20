@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Chrome UiBank Loan Application",
+  "Type": "App",
+  "Id": "6v_P9VSP10ywvhdCThaAmA",
+  "Reference": "EejfLHSTFUiBt8XmLycNKw/6v_P9VSP10ywvhdCThaAmA",
+  "Created": "2025-05-20T14:45:09.9177877Z",
+  "Updated": "2025-05-20T14:53:09.6350206Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

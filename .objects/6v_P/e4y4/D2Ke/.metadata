@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiBank Loan Application Test Data - Ui",
+  "Type": "Screen",
+  "Id": "D2KePeR9kU6V-Ry7kfrsVg",
+  "Reference": "EejfLHSTFUiBt8XmLycNKw/D2KePeR9kU6V-Ry7kfrsVg",
+  "ParentRef": "EejfLHSTFUiBt8XmLycNKw/e4y4YSjCQUyDDC5z0rf_0w",
+  "Created": "2025-05-20T14:45:09.9546621Z",
+  "Updated": "2025-05-20T14:45:09.9546621Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
